@@ -5,7 +5,7 @@
   
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Smooch&pause=1000&color=F700DD&random=false&width=435&lines=Welcome+to+my+page;I+do+not+code." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Smooch&size=40&pause=1000&color=F700DD&random=false&width=435&lines=Welcome+to+my+page;I+do+not+code." alt="Typing SVG" />
     </a>
 
 <div align="center">
