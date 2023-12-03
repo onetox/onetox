@@ -3,8 +3,8 @@
 <p align="center">
   <br>
   <samp>
-    im <b><a rel="nofollow noopener noreferrer" target="_blank">@blmzy</a></b>
-    <br><br>
+  <b><a rel="nofollow noopener noreferrer" target="_blank">@blmzy</a></b>
+  <br><br>
 
 
 <p align="center">
