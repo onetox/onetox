@@ -16,7 +16,4 @@
   </picture>
 </div>
 
-<p align="center">
-  <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/109390881685032960.png">
-</p>
+
